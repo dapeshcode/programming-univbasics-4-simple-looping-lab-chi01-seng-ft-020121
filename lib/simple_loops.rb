@@ -21,7 +21,7 @@ end
 test = [1, 2, 3]
 
 def return_string_array(array)
-  count = 0 
+  counter = 0 
   new_array = []
   while counter < array.length do 
     item_to_string = array[count].to_s
