@@ -26,8 +26,8 @@ def return_string_array(array)
     new_array.push(item_to_string)
     count += 1 
   end 
-  new_array
+  p new_array
 end 
 
-p new_array
+
   
