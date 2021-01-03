@@ -18,6 +18,8 @@ def output_array(array)
   end 
 end 
 
+test = [1, 2, 3]
+
 def return_string_array(array)
   count = 0 
   new_array = []
@@ -29,7 +31,7 @@ def return_string_array(array)
   p new_array
 end 
 
-return_string_array([1,2,2,4])
+return_string_array()
 
 
   
