@@ -31,7 +31,7 @@ def return_string_array(array)
   p new_array
 end 
 
-return_string_array()
+return_string_array(test)
 
 
   
