@@ -18,7 +18,6 @@ def output_array(array)
   end 
 end 
 
-test = [1, 2, 3]
 
 def return_string_array(array)
   count = 0 
@@ -31,7 +30,7 @@ def return_string_array(array)
   p new_array
 end 
 
-return_string_array(test)
+
 
 
   
