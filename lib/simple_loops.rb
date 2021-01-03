@@ -21,10 +21,10 @@ end
 test = [1, 2, 3]
 
 def return_string_array(array)
-  counter = 0 
+  count = 0 
   new_array = []
-  while counter < array.length do 
-    item_to_string = array[counter].to_s
+  while count < array.length do 
+    item_to_string = array[count].to_s
     new_array.push(item_to_string)
     count += 1 
   end 
