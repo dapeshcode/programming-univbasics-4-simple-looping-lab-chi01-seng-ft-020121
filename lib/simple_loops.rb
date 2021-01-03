@@ -20,7 +20,7 @@ end
 
 def return_string_array(array)
   count = 0 
-  while array.length > 0 
+  while counter < array.length 
     array[count]
     count += 1 
   end 
