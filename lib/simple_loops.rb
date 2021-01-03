@@ -29,5 +29,7 @@ def return_string_array(array)
   p new_array
 end 
 
+return_string_array([1,2,2,4])
+
 
   
